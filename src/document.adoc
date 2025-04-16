@@ -1,0 +1,20 @@
+= Tao Te Tom
+Tom Mahaffey
+
+:toc: left
+:toclevels: 1
+:icons: font
+:stem: latexmath
+:quick-uri: https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+
+Tao te Tom.
+Things I do, things I use to do them.
+These notes are just as much for me as they are recommendations for you.
+
+
+
+include::fermented.adoc[]
+
+include::containers.adoc[]
+

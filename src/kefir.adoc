@@ -1,0 +1,110 @@
+
+
+== Kefir
+
+=== Introduction
+
+// Purpose of the instruction
+// Target audience
+// Overview of the topic
+
+Kefir is the cheapest, easiest way to start incorporating a high volume of probiotics into your diet with minimal fuss.
+
+I was introduced to https://en.wikipedia.org/wiki/Kefir[kefir] by a friend who used it to
+control https://en.wikipedia.org/wiki/Ulcerative_colitis[ulcerative colitis].
+
+There has been plenty written and spoken about kefir.
+Health claims abound.
+
+I treat kefir like medicine as opposed to delightful treat.
+Like medicine, I take a dose every day -- usually in the morning with other supplements.
+
+
+
+
+=== Prerequisites
+
+// Necessary knowledge or skills required to follow the instructions
+
+To start a kefir program, you will need minimal hardware and software.
+
+
+Hardware
+
+Containers:: To manage the fermentations.
+Strainer:: To separate grains from milk.
+
+
+
+=== Overview/Background
+
+// Contextual information about the topic
+// Key concepts or terminology
+
+
+=== Procedure/Instructions
+
+// Step-by-step guide with clear numbered lists 
+// Visual aids like screenshots or diagrams where applicable
+
+Plenty of introductory kefir instructions already exist.
+Here are a few starters.
+
+For a brief introduction, this video from https://youtu.be/94KhDUapXbQ?si=z_xDTOV4Yyuf5WmR&t=580[Mike Greenfield].
+Mike showcases all sorts of fermentation projects, check the feed for more.
+
+The video that I used to get started maintaining a kefir culture is
+from https://www.youtube.com/watch?v=xlZrlm9tsrw[Tara Rosas].
+Tara used kefir as part of her https://en.wikipedia.org/wiki/Crohn%27s_disease[Crohns Disease] recovery.
+
+For a longer treatment, see this one from https://www.youtube.com/watch?v=n_ayUEYZos8[Clean Food Living].
+I wish this video had existed when I started, because the author does a great job of showing/talking about
+what the incubation looks like and what to watch out for.
+
+Before you start your first attempt at kefir fermentation, this https://www.youtube.com/watch?v=Zn1OEks0Gwo[36 hour time lapse] video
+is worth watching.
+
+
+
+
+
+=== Important Considerations
+
+// Safety precautions (if relevant)
+// Potential pitfalls to avoid
+
+Maintaining a kefir schedule is custom.
+It will depend on how many humans you are producing for, and how much or how often they are taking kefir.
+After watching the instructional videos above, and after a few rounds of making kefir, you will find a groove.
+Simply match the grains, milk, time, and temperature to your production requirements.
+
+Start with 1 or 2 tablespoons of grains to make a quart of kefir and adjust from there.
+Given these inputs, you will have something usable within 24 hours which will lead to some taste testing.
+Adjustments come in only a few ways: the amount of grains, the amount of milk, and the temperature at which you ferment.
+
+The kefir grains will grow over time.
+If you want the ability to make more kefir, allow them to grow and split them into multiple containers.
+
+Since grains grow over time, it is inevitable that you will have to discard some from the culture.
+When it's time to trim grains, feel free to just eat them or include them in any dish/snack you may have going.
+Another option is to freeze some for backup use later.
+
+Very few things can go outright "wrong" so long as you are comfortable with some variability of the final product.
+Spoilage is the main one.
+This only happens if/when you get a contaminate in your culture.
+Instead of a bright, tangy drink, you will see a discolored, stinky vessel.
+In this case, start over.
+
+
+=== Troubleshooting Guide
+Common errors and how to resolve them 
+
+
+=== Summary/Key Points
+Recap of essential information 
+
+
+=== Conclusion
+Final thoughts or next steps 
+
+
