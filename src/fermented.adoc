@@ -57,27 +57,54 @@ This is medicine, not amuse bouche.
 === Yogurt
 
 Yogurt is almost as easy to produce as kefir.
-Yogurt making *does* require more equipment, but there are choices.
+Yogurt making *can* require more equipment, and there are choices.
 The basic protocol is similar to kefir, but with an emphasis on longer incubation at higher-than-room-temperatures.
 
 
 Prerequisites and preparation:
 
 . Watch a crash course on https://www.youtube.com/watch?v=fqvouttKjZ0[yogurt making].  The big algorithm in the sky will recommend others as well.
-. Choose a method for maintaining a moderate (~100F) temperature.
-. Choose a starter culture.
-. Choose a dairy.
-. Consider a prebiotic (food for the beasties).
+. Choose a method for maintaining a moderate (~100F) temperature.  See below.
+. Choose a starter culture. I typically make a specific batch with cultures not seen in over-the-counter yogurt (like https://cuttingedgecultures.com/our-blog/l-reuteri-and-l-gasseri-superfoods-are-all-about-bacterial-counts/[L. Reuteri and L. Gasseri].  However, if you have a supermaket brand you like, and it's got live and active cultures in it, you can use it to make your own.
+. Choose a dairy. I use half-an-half most often because I like the thick and fatty consistency.
+. Consider a prebiotic (food for the beasties). The most cost effective food I've used is https://www.amazon.com/dp/B074WKCPS4[inulin powder].
 
 
-On temperature maintenance, there are options.
+On temperature maintenance, there are options:
 
 The oven method, highlighted in the crash course video, can be done by anyone with an oven.
 I find this method fussy and difficult to predict.
-If you have the availability, or perhaps even enjoy 
+If you have the availability, or perhaps even enjoy the unpredictability, this is the method for you.
 I like the ability to set a specific time and expect a result in a time frame that is reasonably predictable.
 
-If you have a multicooker
+If you have a multicooker (e.g.: Instant Pot), you can include https://www.youtube.com/watch?v=U_vejmAr-Ac[all ingredients and click go].
 
+If you have a sous vide circulator, you get to choose any size container you want.
+This https://www.youtube.com/watch?v=PMInAL7JRRo[short video] from ChefsSteps is a good place to start.
+Juat a few years ago, sous vide circulators were very expensive (> 1k).
+These days, you can get one for less than a hundred dollars.
+
+Browsing other videos is recommended while you get a feel for yogurt making.
+There are many varieties on time, temp, additional ingredients, etc.
+
+
+My go-to workup is:
+
+. One quart of half-and-half
+. Two tablespoons culture (specific or mixture from a commercial brand)
+. Two tablespoons inulin powder
+. Sous vide at 100F for 24-36 hours in mason jars
+
+I have not been convinced on the need to boil first.
+I do, however, insist that the culture and inulin powder are well-incorporated before sealing jars.
+The inulin powder, in particular, clumps on me when put into warm half and half.
+
+I make multiple quarts at a time, starting with a large vessel of dairy to mix all ingredients,
+then separating into pint or quart jars for the incubation.
+I whisk the inulin and starter culter vigorously in a smaller amount of dairy before incorporating.
+
+It is not out of the ordinary for the first incubation to produce grainy or separated results.
+It still tastes fine: you can just blend it back together or pour off the whey.
+When this happens, the next batch is usually thick and creamy.
 
 
