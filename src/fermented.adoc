@@ -65,7 +65,7 @@ Prerequisites and preparation:
 
 . Watch a crash course on https://www.youtube.com/watch?v=fqvouttKjZ0[yogurt making].  The big algorithm in the sky will recommend others as well.
 . Choose a method for maintaining a moderate (~100F) temperature.  See below.
-. Choose a starter culture. I typically make a specific batch with cultures not seen in over-the-counter yogurt (like https://cuttingedgecultures.com/our-blog/l-reuteri-and-l-gasseri-superfoods-are-all-about-bacterial-counts/[L. Reuteri and L. Gasseri].  However, if you have a supermaket brand you like, and it's got live and active cultures in it, you can use it to make your own.
+. Choose a starter culture. I typically make a specific batch with cultures not seen in over-the-counter yogurt (like https://cuttingedgecultures.com/our-blog/l-reuteri-and-l-gasseri-superfoods-are-all-about-bacterial-counts/[L. Reuteri and L. Gasseri]).  However, if you have a supermaket brand you like, and it's got live and active cultures in it, you can use it to make your own.
 . Choose a dairy. I use half-an-half most often because I like the thick and fatty consistency.
 . Consider a prebiotic (food for the beasties). The most cost effective food I've used is https://www.amazon.com/dp/B074WKCPS4[inulin powder].
 
@@ -81,7 +81,7 @@ If you have a multicooker (e.g.: Instant Pot), you can include https://www.youtu
 
 If you have a sous vide circulator, you get to choose any size container you want.
 This https://www.youtube.com/watch?v=PMInAL7JRRo[short video] from ChefsSteps is a good place to start.
-Juat a few years ago, sous vide circulators were very expensive (> 1k).
+Just a few years ago, sous vide circulators were very expensive (> 1k).
 These days, you can get one for less than a hundred dollars.
 
 Browsing other videos is recommended while you get a feel for yogurt making.

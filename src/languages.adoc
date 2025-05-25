@@ -1,0 +1,16 @@
+
+
+
+
+
+== Programming Languages
+
+=== Go
+
+* https://go.dev/tour/[Tour of Go]
+* https://gobyexample.com/[Go By Example]
+* https://go.dev/doc/effective_go[Effective Go]
+* https://www.alexedwards.net/[Alex Edwards Books] Let's Go and Let's Go Further
+* https://go.dev/talks/2012/splash.article[Go At Google]
+* https://www.youtube.com/watch?v=oV9rvDllKEg[Waza Heroku Pike Concurrency vs Parallelism]
+* Tony Hoar 1978 Communicating Sequential Processes

@@ -1,0 +1,29 @@
+
+
+== Systems
+
+
+
+
+=== SSH
+
+// https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54
+
+
+Generate a Key
+ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/<name>_ed25519 -C <name>
+
+
+
+Copy a Key To Remote Host
+ssh-copy-id <user>@<host>
+
+
+
+
+
+
+
+
+=== Certificates
+
