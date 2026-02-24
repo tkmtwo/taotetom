@@ -65,7 +65,9 @@ Prerequisites and preparation:
 
 . Watch a crash course on https://www.youtube.com/watch?v=fqvouttKjZ0[yogurt making].  The big algorithm in the sky will recommend others as well.
 . Choose a method for maintaining a moderate (~100F) temperature.  See below.
-. Choose a starter culture. I typically make a specific batch with cultures not seen in over-the-counter yogurt (like https://cuttingedgecultures.com/our-blog/l-reuteri-and-l-gasseri-superfoods-are-all-about-bacterial-counts/[L. Reuteri and L. Gasseri]).  However, if you have a supermaket brand you like, and it's got live and active cultures in it, you can use it to make your own.
+. Choose a starter culture. I typically make a specific batch with cultures not seen in over-the-counter
+yogurt (like https://cuttingedgecultures.com/lr-superfood/[L. Reuteri]
+and https://cuttingedgecultures.com/l-gasseri-superfood-starter/[L. Gasseri]).  However, if you have a supermaket brand you like, and it's got live and active cultures in it, you can use it to make your own.
 . Choose a dairy. I use half-an-half most often because I like the thick and fatty consistency.
 . Consider a prebiotic (food for the beasties). The most cost effective food I've used is https://www.amazon.com/dp/B074WKCPS4[inulin powder].
 
@@ -83,6 +85,9 @@ If you have a sous vide circulator, you get to choose any size container you wan
 This https://www.youtube.com/watch?v=PMInAL7JRRo[short video] from ChefsSteps is a good place to start.
 Just a few years ago, sous vide circulators were very expensive (> 1k).
 These days, you can get one for less than a hundred dollars.
+I've been using the cheapies from https://www.monoprice.com/product?p_id=21594[Monoprice] and they work fine.
+They aren't the most rugged, and the temp can be off by a few degrees (use your kitchen Thermometer to check), but they work
+just fine for most applications.  Bonus, no stupid WiFi or "guided cooking" programs to mess with.
 
 Browsing other videos is recommended while you get a feel for yogurt making.
 There are many varieties on time, temp, additional ingredients, etc.
@@ -105,6 +110,6 @@ I whisk the inulin and starter culter vigorously in a smaller amount of dairy be
 
 It is not out of the ordinary for the first incubation to produce grainy or separated results.
 It still tastes fine: you can just blend it back together or pour off the whey.
-When this happens, the next batch is usually thick and creamy.
+The subsequent batches are usually thick and creamy.
 
 
